@@ -5,7 +5,12 @@ Web Application Developer
 
 
 # 💫 About Me:
-Greetings! I'm Shakil Ahamed, your go-to Web Application Developer with a passion for crafting captivating online experiences. With expertise in responsive website design and mobile-friendly WordPress websites, I excel at both creating custom themes that resonate with your brand's essence and transforming existing themes to meet your unique vision. My skill set extends to writing bespoke code that brings your client's goals to life. Additionally, I'm well-versed in creating alluring custom plugins and themes that add that extra oomph to your websites. Notably, my proficiency also includes working with Laravel and ReactJS, allowing me to elevate your digital presence even further. Let's collaborate to turn your ideas into engaging realities.<br><br> Much appreciated, <br> Shakil<br><br>
+Greetings! I'm Shakil Ahamed, your go-to Web Application Developer with a passion for crafting captivating online experiences. With expertise in responsive website design and mobile-friendly WordPress websites, I excel at both creating custom themes that resonate with your brand's essence and transforming existing themes to meet your unique vision. My skill set extends to writing bespoke code that brings your client's goals to life. Additionally, I'm well-versed in creating alluring custom plugins and themes that add that extra oomph to your websites. Notably, my proficiency also includes working with Laravel and ReactJS, allowing me to elevate your digital presence even further. Let's collaborate to turn your ideas into engaging realities.<br><br> Much appreciated, <br> Shakil<br><be>
+
+* 🌍  I'm based in Bangladesh
+* 🖥️  See my portfolio at [shakilahamed.com](http://shakilahamed.com)
+* ✉️  You can contact me at [dev.shakilahamed@gmail.com](mailto:dev.shakilahamed@gmail.com)
+* 🤝  I'm open to collaborating on challenging projects
 
 
 ## 🌐 Socials:
