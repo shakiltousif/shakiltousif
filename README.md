@@ -9,7 +9,7 @@ Greetings! I'm Shakil Ahamed, your go-to Web Application Developer with a passio
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [shakilahamed.com](http://shakilahamed.com)
-* ✉️  You can contact me at [dev.shakilahamed@gmail.com](mailto:dev.shakilahamed@gmail.com)
+* ✉️  You can contact me at [connect@shakilahamed.com](mailto:connect@shakilahamed.com)
 * 🤝  I'm open to collaborating on challenging projects
 
 
